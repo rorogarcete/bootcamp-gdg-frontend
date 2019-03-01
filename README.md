@@ -13,7 +13,7 @@ It is ready to use with TDD with the basic setup for unit, integration and end t
 
 ## Live demo
 
-[View the live demo on Heroku](https://bootcamp-gdg-frontend-101.herokuapp.com/) or the [individual UI components](https://ivanarielcaceres.github.io/bootcamp-gdg-frontend) of my Storybook on Github Pages.
+[View the live demo on Heroku](https://bootcamp-gdg-frontend.herokuapp.com/) or the [individual UI components](https://ivanarielcaceres.github.io/bootcamp-gdg-frontend) of my Storybook on Github Pages.
 
 ## Tech stack
 
