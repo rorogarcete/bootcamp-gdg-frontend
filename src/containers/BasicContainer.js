@@ -1,12 +1,20 @@
 import { connect } from 'react-redux';
-import Basic from '../components/Basic';
-import { addItem } from '../actions/actions';
+import Basic from 'components/Basic/Basic';
+import {
+  addItem,
+  removeItem,
+  resetItems,
+  searchItem
+} from '../actions/actions';
 
 const mapStateToProps = state => state;
 
 const mapDispatchToProps = function mapDispatchToProps(dispatch) {
   return {
-    onClick: () => dispatch(addItem(`Item ${new Date()}`))
+    addItem: item => dispatch(addItem(item)),
+    removeItem: id => dispatch(removeItem(id)),
+    resetItems: () => dispatch(resetItems()),
+    searchItem: keyword => dispatch(searchItem(keyword))
   };
 };
 

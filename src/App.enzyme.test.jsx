@@ -11,17 +11,4 @@ it('renders without crashing', () => {
 
 it('Smoke test', () => {
   const app = mount(<App />);
-
-  // console.log(app.debug());
-
-  const addItem = () =>
-    app
-      // .find(Basic)
-      // .at(position)
-      .find('button')
-      .simulate('click');
-
-  addItem();
-  addItem();
-  addItem();
 });
