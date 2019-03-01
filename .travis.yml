@@ -1,17 +1,15 @@
 language: node_js
 node_js:
-- 8
+  - 8
 cache:
   directories:
-  - node_modules
+    - node_modules
 script:
-- npm run build
-- npm test -- --coverage --coverageReporters=text-lcov | ./node_modules/coveralls/bin/coveralls.js
-- npm run deploy-storybook -- --ci
+  - npm run build
+  - npm test -- --coverage --coverageReporters=text-lcov | ./node_modules/coveralls/bin/coveralls.js
+  - npm run deploy-storybook -- --ci
 deploy:
   provider: heroku
-  api_key:
-    secure: hzrerGnWB33KF1sNsTRyO34scuwaKhyvkjUnG5pRqnYSZWdf0A9cdpKIy48wXZDjh+CmOone1GrTnA4bALM4brCw/cRvCegjSxm9sAMSSigrxkxZPrxgZ6keqQFJEpR4JDinPeMEhThgLPPcNb1rr29dIPtbtmTuRbkCaZpqiSi0PKh4x+/qNswtKu0n+12WYaaW3Lc72+302YHJWs25dfuE9HgnW6cGKWn9cgR7GGM5roZDM7diut8qfYsOEUQksV65RSltK7tm+HkKV45KwynHQnQxdIa2pPgMxn9bP8XBZ8kkdaZf1/8E3to3+kLnWmwnsjyYGyi0rhJaOMQiMWI4ZmE3HuEaiHHRc/tIVyda0jkE2kapPy/qEy2kt1q1L4LrujMlVDfXSpswZtnbM57UExR5oCZ0sbFAfRa3MDGAvKNpFDCSBC1UxBRmDt/MOCgsbZl8W2+UOwfPf/xM1j4P/iB2PRAqemPpIvLYtc1EghNRg/PFBl50Y3jVsZRR7/0GXwAyZxrcxORnn1zyVa+MuL3bT2Cew4TAUk/y704M9j2C6ucm3FA9F3aCTo0KWpLRwIwK5KUFoYY8kuR5YKgEMoQ62vX6gU2Aa7kMdA5mrdqUHU2O4FmKyXJ854VkReFJUEEpa5p3THaocxYF2ni1wA3/hdY7keyEwavYzNM=
   app: bootcamp-gdg-frontend
-  on:
-    repo: ivanarielcaceres/bootcamp-gdg-frontend
+  api_key:
+    secure: 'u3m2anOTPYElq5xiYhAnaTvwM0WOMe9TeHebszuQ8wvKjSqLqw2mNCgimSfQF72gZodNK8dI3hHdZEISWAiqTM3VzADsjSQGaxW/QkMPepF4makAvQCGwaaWPQqcfq7spASJLhfKAnUpvjykjdKoRhjvoVOkSdob/PulMWdIrE0zC9buGeMRqmIynJ60K2TQjiGee6YOl30T9sVQX2dD4Kr8P7oc7mnDsaqvFmwYE58EhimKj961KXbjwyQPNkwoDZAGQxKMBaiSlzPh99hyo214VFFlLan+y8PK2BR90BTVX4ROVW8Tirm+oletYT14lbp/QKfEnOLtDmpuCwWvIQ0kukRAJdzquDNB/xNnnhVUerdfkrEpEMsyIs4dyiUpCH0oaKYJc7bxpOUJOC0UKQvOfFXNOBxmsttCUMWTP3VwzH+mX5Pz4Qoq+kGyiJKfTsqUipOEnasL3lt9U6/X/AD6aTy0vpIbQtFU90khKjB8SaxjoxK+upkwN0SezWi1m3iCwvb1yqgwCoP6p0QiSF+mqahMEfBrDce/ho9cq5SjP9F+RGlNpYgr/3KfhEEN/dunblL2+YEl0UjjDAnGZ/iVRPHBnUIE3rqBT9sdKMqLxgLFNpoWub8o1GQIVUmiP3o2l3XL36ox2euRzBbTsfnxnonHhzegXnB51/L7pks='
