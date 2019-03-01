@@ -9,7 +9,7 @@ It is ready to use with TDD with the basic setup for unit, integration and end t
 |            | Status                                                                                                                                                                                                   |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | CI service | [![Build Status](https://travis-ci.org/ivanarielcaceres/bootcamp-gdg-frontend.png?branch=master)](https://travis-ci.org/ivanarielcaceres/bootcamp-gdg-frontend)                                          |
-| Tests      | [![Coverage Status](https://coveralls.io/repos/github/ivanarielcaceres/bootcamp-gdg-frontend/badge.png?branch=master)](https://coveralls.io/github/ivanarielcaceres/bootcamp-gdg-frontend?branch=master) |
+| Tests      | [![Coverage Status](https://coveralls.io/repos/github/ivanarielcaceres/bootcamp-gdg-frontend/badge.svg?branch=master)](https://coveralls.io/github/ivanarielcaceres/bootcamp-gdg-frontend?branch=master) |
 
 ## Live demo
 
