@@ -5,7 +5,7 @@ import { ListGroup, ListGroupItem, Button } from 'reactstrap';
 
 const ItemListing = ({ items, removeItem }) => (
   <ListGroup>
-    {items.length == 0 && <h3 style={styles.emptyList}>No hay ningún item</h3>}
+    {items.length === 0 && <h3 style={styles.emptyList}>No hay ningún item</h3>}
     {items.map(item => (
       <ListGroupItem key={item.id}>
         {item.name}
