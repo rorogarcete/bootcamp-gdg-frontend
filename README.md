@@ -1,10 +1,9 @@
-# React/create-react-app/Redux/TravisCI/Heroku/VSCode boilerplate
+# React/create-react-app/Redux/TravisCI/Heroku/VSCode/Jest/Enzyme/TDD
 
-Boilerplate code and installation instructions for a quick setup of a walking skeleton for a TDD process using create-react-app/Redux/TravisCI.
-
-"A 'walking skeleton' is an implementation of the thinnest possible slice of real functionality that we can automatically build, deploy and test end-to-end." Source: Cockburn, Alistair. Crystal Clear: A Human-powered methodology for small teams, 2004.
-
+Simple project with best practices and conventions to develop a high quality React JS application.
 It is ready to use with TDD with the basic setup for unit, integration and end to end tests.
+
+Based on this [repository](https://github.com/davps/create-react-app-redux-boilerplate)
 
 |            | Status                                                                                                                                                                                                   |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
