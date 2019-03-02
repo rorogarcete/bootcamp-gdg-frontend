@@ -3,7 +3,7 @@
 Simple project with best practices and conventions to develop a high quality React JS application.
 It is ready to use with TDD with the basic setup for unit, integration and end to end tests.
 
-Based on this [repository](https://github.com/davps/create-react-app-redux-boilerplate
+Based on this [repository](https://github.com/davps/create-react-app-redux-boilerplate)
 
 |            | Status                                                                                                                                                                                                   |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
