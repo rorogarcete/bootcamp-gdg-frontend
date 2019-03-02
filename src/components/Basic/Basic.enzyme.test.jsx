@@ -41,25 +41,4 @@ describe('<Basic />', () => {
   it('Render the ItemListing', () => {
     expect(wrapper.find(ItemListing).length).toBe(1);
   });
-
-  it('Simulate ADD, RESET AND REMOVE item', () => {
-    const addItem = () => {
-      wrapper
-        .find(Button)
-        .at(0)
-        .simulate('click');
-    };
-
-    const resetItems = () => {
-      wrapper
-        .find(Button)
-        .at(1)
-        .simulate('click');
-    };
-
-    addItem();
-    addItem();
-    addItem();
-    resetItems();
-  });
 });

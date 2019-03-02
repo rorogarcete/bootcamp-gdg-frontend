@@ -44,8 +44,15 @@ ShallowWrapper {
           <Button
                     color="danger"
                     onClick={[Function]}
+                    style={
+                              Object {
+                                        "marginLeft": 10,
+                                      }
+                    }
                     tag="button"
-          />
+          >
+                    <FaEraser />
+          </Button>
 </ListGroupItem>,
         <ListGroupItem
           tag="li"
@@ -54,8 +61,15 @@ ShallowWrapper {
           <Button
                     color="danger"
                     onClick={[Function]}
+                    style={
+                              Object {
+                                        "marginLeft": 10,
+                                      }
+                    }
                     tag="button"
-          />
+          >
+                    <FaEraser />
+          </Button>
 </ListGroupItem>,
         <ListGroupItem
           tag="li"
@@ -64,8 +78,15 @@ ShallowWrapper {
           <Button
                     color="danger"
                     onClick={[Function]}
+                    style={
+                              Object {
+                                        "marginLeft": 10,
+                                      }
+                    }
                     tag="button"
-          />
+          >
+                    <FaEraser />
+          </Button>
 </ListGroupItem>,
       ],
       "tag": "ul",
@@ -82,8 +103,15 @@ ShallowWrapper {
             <Button
               color="danger"
               onClick={[Function]}
+              style={
+                            Object {
+                                          "marginLeft": 10,
+                                        }
+              }
               tag="button"
-/>,
+>
+              <FaEraser />
+</Button>,
           ],
           "tag": "li",
         },
@@ -95,12 +123,24 @@ ShallowWrapper {
             "key": undefined,
             "nodeType": "class",
             "props": Object {
+              "children": <FaEraser />,
               "color": "danger",
               "onClick": [Function],
+              "style": Object {
+                "marginLeft": 10,
+              },
               "tag": "button",
             },
             "ref": null,
-            "rendered": null,
+            "rendered": Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "function",
+              "props": Object {},
+              "ref": null,
+              "rendered": null,
+              "type": [Function],
+            },
             "type": [Function],
           },
         ],
@@ -116,8 +156,15 @@ ShallowWrapper {
             <Button
               color="danger"
               onClick={[Function]}
+              style={
+                            Object {
+                                          "marginLeft": 10,
+                                        }
+              }
               tag="button"
-/>,
+>
+              <FaEraser />
+</Button>,
           ],
           "tag": "li",
         },
@@ -129,12 +176,24 @@ ShallowWrapper {
             "key": undefined,
             "nodeType": "class",
             "props": Object {
+              "children": <FaEraser />,
               "color": "danger",
               "onClick": [Function],
+              "style": Object {
+                "marginLeft": 10,
+              },
               "tag": "button",
             },
             "ref": null,
-            "rendered": null,
+            "rendered": Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "function",
+              "props": Object {},
+              "ref": null,
+              "rendered": null,
+              "type": [Function],
+            },
             "type": [Function],
           },
         ],
@@ -150,8 +209,15 @@ ShallowWrapper {
             <Button
               color="danger"
               onClick={[Function]}
+              style={
+                            Object {
+                                          "marginLeft": 10,
+                                        }
+              }
               tag="button"
-/>,
+>
+              <FaEraser />
+</Button>,
           ],
           "tag": "li",
         },
@@ -163,12 +229,24 @@ ShallowWrapper {
             "key": undefined,
             "nodeType": "class",
             "props": Object {
+              "children": <FaEraser />,
               "color": "danger",
               "onClick": [Function],
+              "style": Object {
+                "marginLeft": 10,
+              },
               "tag": "button",
             },
             "ref": null,
-            "rendered": null,
+            "rendered": Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "function",
+              "props": Object {},
+              "ref": null,
+              "rendered": null,
+              "type": [Function],
+            },
             "type": [Function],
           },
         ],
@@ -191,8 +269,15 @@ ShallowWrapper {
             <Button
                         color="danger"
                         onClick={[Function]}
+                        style={
+                                    Object {
+                                                "marginLeft": 10,
+                                              }
+                        }
                         tag="button"
-            />
+            >
+                        <FaEraser />
+            </Button>
 </ListGroupItem>,
           <ListGroupItem
             tag="li"
@@ -201,8 +286,15 @@ ShallowWrapper {
             <Button
                         color="danger"
                         onClick={[Function]}
+                        style={
+                                    Object {
+                                                "marginLeft": 10,
+                                              }
+                        }
                         tag="button"
-            />
+            >
+                        <FaEraser />
+            </Button>
 </ListGroupItem>,
           <ListGroupItem
             tag="li"
@@ -211,8 +303,15 @@ ShallowWrapper {
             <Button
                         color="danger"
                         onClick={[Function]}
+                        style={
+                                    Object {
+                                                "marginLeft": 10,
+                                              }
+                        }
                         tag="button"
-            />
+            >
+                        <FaEraser />
+            </Button>
 </ListGroupItem>,
         ],
         "tag": "ul",
@@ -229,8 +328,15 @@ ShallowWrapper {
               <Button
                 color="danger"
                 onClick={[Function]}
+                style={
+                                Object {
+                                                "marginLeft": 10,
+                                              }
+                }
                 tag="button"
-/>,
+>
+                <FaEraser />
+</Button>,
             ],
             "tag": "li",
           },
@@ -242,12 +348,24 @@ ShallowWrapper {
               "key": undefined,
               "nodeType": "class",
               "props": Object {
+                "children": <FaEraser />,
                 "color": "danger",
                 "onClick": [Function],
+                "style": Object {
+                  "marginLeft": 10,
+                },
                 "tag": "button",
               },
               "ref": null,
-              "rendered": null,
+              "rendered": Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "function",
+                "props": Object {},
+                "ref": null,
+                "rendered": null,
+                "type": [Function],
+              },
               "type": [Function],
             },
           ],
@@ -263,8 +381,15 @@ ShallowWrapper {
               <Button
                 color="danger"
                 onClick={[Function]}
+                style={
+                                Object {
+                                                "marginLeft": 10,
+                                              }
+                }
                 tag="button"
-/>,
+>
+                <FaEraser />
+</Button>,
             ],
             "tag": "li",
           },
@@ -276,12 +401,24 @@ ShallowWrapper {
               "key": undefined,
               "nodeType": "class",
               "props": Object {
+                "children": <FaEraser />,
                 "color": "danger",
                 "onClick": [Function],
+                "style": Object {
+                  "marginLeft": 10,
+                },
                 "tag": "button",
               },
               "ref": null,
-              "rendered": null,
+              "rendered": Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "function",
+                "props": Object {},
+                "ref": null,
+                "rendered": null,
+                "type": [Function],
+              },
               "type": [Function],
             },
           ],
@@ -297,8 +434,15 @@ ShallowWrapper {
               <Button
                 color="danger"
                 onClick={[Function]}
+                style={
+                                Object {
+                                                "marginLeft": 10,
+                                              }
+                }
                 tag="button"
-/>,
+>
+                <FaEraser />
+</Button>,
             ],
             "tag": "li",
           },
@@ -310,12 +454,24 @@ ShallowWrapper {
               "key": undefined,
               "nodeType": "class",
               "props": Object {
+                "children": <FaEraser />,
                 "color": "danger",
                 "onClick": [Function],
+                "style": Object {
+                  "marginLeft": 10,
+                },
                 "tag": "button",
               },
               "ref": null,
-              "rendered": null,
+              "rendered": Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "function",
+                "props": Object {},
+                "ref": null,
+                "rendered": null,
+                "type": [Function],
+              },
               "type": [Function],
             },
           ],
@@ -393,8 +549,15 @@ ShallowWrapper {
           <Button
                     color="danger"
                     onClick={[Function]}
+                    style={
+                              Object {
+                                        "marginLeft": 10,
+                                      }
+                    }
                     tag="button"
-          />
+          >
+                    <FaEraser />
+          </Button>
 </ListGroupItem>,
         <ListGroupItem
           tag="li"
@@ -403,8 +566,15 @@ ShallowWrapper {
           <Button
                     color="danger"
                     onClick={[Function]}
+                    style={
+                              Object {
+                                        "marginLeft": 10,
+                                      }
+                    }
                     tag="button"
-          />
+          >
+                    <FaEraser />
+          </Button>
 </ListGroupItem>,
         <ListGroupItem
           tag="li"
@@ -413,8 +583,15 @@ ShallowWrapper {
           <Button
                     color="danger"
                     onClick={[Function]}
+                    style={
+                              Object {
+                                        "marginLeft": 10,
+                                      }
+                    }
                     tag="button"
-          />
+          >
+                    <FaEraser />
+          </Button>
 </ListGroupItem>,
       ],
       "tag": "ul",
@@ -431,8 +608,15 @@ ShallowWrapper {
             <Button
               color="danger"
               onClick={[Function]}
+              style={
+                            Object {
+                                          "marginLeft": 10,
+                                        }
+              }
               tag="button"
-/>,
+>
+              <FaEraser />
+</Button>,
           ],
           "tag": "li",
         },
@@ -444,12 +628,24 @@ ShallowWrapper {
             "key": undefined,
             "nodeType": "class",
             "props": Object {
+              "children": <FaEraser />,
               "color": "danger",
               "onClick": [Function],
+              "style": Object {
+                "marginLeft": 10,
+              },
               "tag": "button",
             },
             "ref": null,
-            "rendered": null,
+            "rendered": Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "function",
+              "props": Object {},
+              "ref": null,
+              "rendered": null,
+              "type": [Function],
+            },
             "type": [Function],
           },
         ],
@@ -465,8 +661,15 @@ ShallowWrapper {
             <Button
               color="danger"
               onClick={[Function]}
+              style={
+                            Object {
+                                          "marginLeft": 10,
+                                        }
+              }
               tag="button"
-/>,
+>
+              <FaEraser />
+</Button>,
           ],
           "tag": "li",
         },
@@ -478,12 +681,24 @@ ShallowWrapper {
             "key": undefined,
             "nodeType": "class",
             "props": Object {
+              "children": <FaEraser />,
               "color": "danger",
               "onClick": [Function],
+              "style": Object {
+                "marginLeft": 10,
+              },
               "tag": "button",
             },
             "ref": null,
-            "rendered": null,
+            "rendered": Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "function",
+              "props": Object {},
+              "ref": null,
+              "rendered": null,
+              "type": [Function],
+            },
             "type": [Function],
           },
         ],
@@ -499,8 +714,15 @@ ShallowWrapper {
             <Button
               color="danger"
               onClick={[Function]}
+              style={
+                            Object {
+                                          "marginLeft": 10,
+                                        }
+              }
               tag="button"
-/>,
+>
+              <FaEraser />
+</Button>,
           ],
           "tag": "li",
         },
@@ -512,12 +734,24 @@ ShallowWrapper {
             "key": undefined,
             "nodeType": "class",
             "props": Object {
+              "children": <FaEraser />,
               "color": "danger",
               "onClick": [Function],
+              "style": Object {
+                "marginLeft": 10,
+              },
               "tag": "button",
             },
             "ref": null,
-            "rendered": null,
+            "rendered": Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "function",
+              "props": Object {},
+              "ref": null,
+              "rendered": null,
+              "type": [Function],
+            },
             "type": [Function],
           },
         ],
@@ -540,8 +774,15 @@ ShallowWrapper {
             <Button
                         color="danger"
                         onClick={[Function]}
+                        style={
+                                    Object {
+                                                "marginLeft": 10,
+                                              }
+                        }
                         tag="button"
-            />
+            >
+                        <FaEraser />
+            </Button>
 </ListGroupItem>,
           <ListGroupItem
             tag="li"
@@ -550,8 +791,15 @@ ShallowWrapper {
             <Button
                         color="danger"
                         onClick={[Function]}
+                        style={
+                                    Object {
+                                                "marginLeft": 10,
+                                              }
+                        }
                         tag="button"
-            />
+            >
+                        <FaEraser />
+            </Button>
 </ListGroupItem>,
           <ListGroupItem
             tag="li"
@@ -560,8 +808,15 @@ ShallowWrapper {
             <Button
                         color="danger"
                         onClick={[Function]}
+                        style={
+                                    Object {
+                                                "marginLeft": 10,
+                                              }
+                        }
                         tag="button"
-            />
+            >
+                        <FaEraser />
+            </Button>
 </ListGroupItem>,
         ],
         "tag": "ul",
@@ -578,8 +833,15 @@ ShallowWrapper {
               <Button
                 color="danger"
                 onClick={[Function]}
+                style={
+                                Object {
+                                                "marginLeft": 10,
+                                              }
+                }
                 tag="button"
-/>,
+>
+                <FaEraser />
+</Button>,
             ],
             "tag": "li",
           },
@@ -591,12 +853,24 @@ ShallowWrapper {
               "key": undefined,
               "nodeType": "class",
               "props": Object {
+                "children": <FaEraser />,
                 "color": "danger",
                 "onClick": [Function],
+                "style": Object {
+                  "marginLeft": 10,
+                },
                 "tag": "button",
               },
               "ref": null,
-              "rendered": null,
+              "rendered": Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "function",
+                "props": Object {},
+                "ref": null,
+                "rendered": null,
+                "type": [Function],
+              },
               "type": [Function],
             },
           ],
@@ -612,8 +886,15 @@ ShallowWrapper {
               <Button
                 color="danger"
                 onClick={[Function]}
+                style={
+                                Object {
+                                                "marginLeft": 10,
+                                              }
+                }
                 tag="button"
-/>,
+>
+                <FaEraser />
+</Button>,
             ],
             "tag": "li",
           },
@@ -625,12 +906,24 @@ ShallowWrapper {
               "key": undefined,
               "nodeType": "class",
               "props": Object {
+                "children": <FaEraser />,
                 "color": "danger",
                 "onClick": [Function],
+                "style": Object {
+                  "marginLeft": 10,
+                },
                 "tag": "button",
               },
               "ref": null,
-              "rendered": null,
+              "rendered": Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "function",
+                "props": Object {},
+                "ref": null,
+                "rendered": null,
+                "type": [Function],
+              },
               "type": [Function],
             },
           ],
@@ -646,8 +939,15 @@ ShallowWrapper {
               <Button
                 color="danger"
                 onClick={[Function]}
+                style={
+                                Object {
+                                                "marginLeft": 10,
+                                              }
+                }
                 tag="button"
-/>,
+>
+                <FaEraser />
+</Button>,
             ],
             "tag": "li",
           },
@@ -659,12 +959,24 @@ ShallowWrapper {
               "key": undefined,
               "nodeType": "class",
               "props": Object {
+                "children": <FaEraser />,
                 "color": "danger",
                 "onClick": [Function],
+                "style": Object {
+                  "marginLeft": 10,
+                },
                 "tag": "button",
               },
               "ref": null,
-              "rendered": null,
+              "rendered": Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "function",
+                "props": Object {},
+                "ref": null,
+                "rendered": null,
+                "type": [Function],
+              },
               "type": [Function],
             },
           ],

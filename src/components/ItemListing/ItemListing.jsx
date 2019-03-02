@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-// import { FaEraser } from 'react-icons/fa';
+import { FaEraser } from 'react-icons/fa';
 import { ListGroup, ListGroupItem, Button } from 'reactstrap';
 
 const ItemListing = ({ items, removeItem }) => (
@@ -8,8 +8,12 @@ const ItemListing = ({ items, removeItem }) => (
     {items.map(item => (
       <ListGroupItem key={item.id}>
         {item.name}
-        <Button color="danger" onClick={removeItem.bind(this, item.id)}>
-          {/* <FaEraser /> */}
+        <Button
+          color="danger"
+          onClick={removeItem.bind(this, item.id)}
+          style={{ marginLeft: 10 }}
+        >
+          <FaEraser />
         </Button>
       </ListGroupItem>
     ))}
