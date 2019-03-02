@@ -37,62 +37,66 @@ ShallowWrapper {
     "nodeType": "function",
     "props": Object {
       "children": Array [
-        <ListGroupItem
-          tag="li"
+        false,
+        Array [
+          <ListGroupItem
+            tag="li"
 >
-          Item 1
-          <Button
-                    color="danger"
-                    onClick={[Function]}
-                    style={
-                              Object {
-                                        "marginLeft": 10,
-                                      }
-                    }
-                    tag="button"
-          >
-                    <FaEraser />
-          </Button>
+            Item 1
+            <Button
+                        color="danger"
+                        onClick={[Function]}
+                        style={
+                                    Object {
+                                                "marginLeft": 10,
+                                              }
+                        }
+                        tag="button"
+            >
+                        <FaEraser />
+            </Button>
 </ListGroupItem>,
-        <ListGroupItem
-          tag="li"
+          <ListGroupItem
+            tag="li"
 >
-          Item 2
-          <Button
-                    color="danger"
-                    onClick={[Function]}
-                    style={
-                              Object {
-                                        "marginLeft": 10,
-                                      }
-                    }
-                    tag="button"
-          >
-                    <FaEraser />
-          </Button>
+            Item 2
+            <Button
+                        color="danger"
+                        onClick={[Function]}
+                        style={
+                                    Object {
+                                                "marginLeft": 10,
+                                              }
+                        }
+                        tag="button"
+            >
+                        <FaEraser />
+            </Button>
 </ListGroupItem>,
-        <ListGroupItem
-          tag="li"
+          <ListGroupItem
+            tag="li"
 >
-          Item 3
-          <Button
-                    color="danger"
-                    onClick={[Function]}
-                    style={
-                              Object {
-                                        "marginLeft": 10,
-                                      }
-                    }
-                    tag="button"
-          >
-                    <FaEraser />
-          </Button>
+            Item 3
+            <Button
+                        color="danger"
+                        onClick={[Function]}
+                        style={
+                                    Object {
+                                                "marginLeft": 10,
+                                              }
+                        }
+                        tag="button"
+            >
+                        <FaEraser />
+            </Button>
 </ListGroupItem>,
+        ],
       ],
       "tag": "ul",
     },
     "ref": null,
     "rendered": Array [
+      false,
       Object {
         "instance": null,
         "key": undefined,
@@ -262,62 +266,66 @@ ShallowWrapper {
       "nodeType": "function",
       "props": Object {
         "children": Array [
-          <ListGroupItem
-            tag="li"
+          false,
+          Array [
+            <ListGroupItem
+              tag="li"
 >
-            Item 1
-            <Button
-                        color="danger"
-                        onClick={[Function]}
-                        style={
-                                    Object {
-                                                "marginLeft": 10,
-                                              }
-                        }
-                        tag="button"
-            >
-                        <FaEraser />
-            </Button>
+              Item 1
+              <Button
+                            color="danger"
+                            onClick={[Function]}
+                            style={
+                                          Object {
+                                                        "marginLeft": 10,
+                                                      }
+                            }
+                            tag="button"
+              >
+                            <FaEraser />
+              </Button>
 </ListGroupItem>,
-          <ListGroupItem
-            tag="li"
+            <ListGroupItem
+              tag="li"
 >
-            Item 2
-            <Button
-                        color="danger"
-                        onClick={[Function]}
-                        style={
-                                    Object {
-                                                "marginLeft": 10,
-                                              }
-                        }
-                        tag="button"
-            >
-                        <FaEraser />
-            </Button>
+              Item 2
+              <Button
+                            color="danger"
+                            onClick={[Function]}
+                            style={
+                                          Object {
+                                                        "marginLeft": 10,
+                                                      }
+                            }
+                            tag="button"
+              >
+                            <FaEraser />
+              </Button>
 </ListGroupItem>,
-          <ListGroupItem
-            tag="li"
+            <ListGroupItem
+              tag="li"
 >
-            Item 3
-            <Button
-                        color="danger"
-                        onClick={[Function]}
-                        style={
-                                    Object {
-                                                "marginLeft": 10,
-                                              }
-                        }
-                        tag="button"
-            >
-                        <FaEraser />
-            </Button>
+              Item 3
+              <Button
+                            color="danger"
+                            onClick={[Function]}
+                            style={
+                                          Object {
+                                                        "marginLeft": 10,
+                                                      }
+                            }
+                            tag="button"
+              >
+                            <FaEraser />
+              </Button>
 </ListGroupItem>,
+          ],
         ],
         "tag": "ul",
       },
       "ref": null,
       "rendered": Array [
+        false,
         Object {
           "instance": null,
           "key": undefined,
@@ -542,62 +550,66 @@ ShallowWrapper {
     "nodeType": "function",
     "props": Object {
       "children": Array [
-        <ListGroupItem
-          tag="li"
+        false,
+        Array [
+          <ListGroupItem
+            tag="li"
 >
-          Item 1
-          <Button
-                    color="danger"
-                    onClick={[Function]}
-                    style={
-                              Object {
-                                        "marginLeft": 10,
-                                      }
-                    }
-                    tag="button"
-          >
-                    <FaEraser />
-          </Button>
+            Item 1
+            <Button
+                        color="danger"
+                        onClick={[Function]}
+                        style={
+                                    Object {
+                                                "marginLeft": 10,
+                                              }
+                        }
+                        tag="button"
+            >
+                        <FaEraser />
+            </Button>
 </ListGroupItem>,
-        <ListGroupItem
-          tag="li"
+          <ListGroupItem
+            tag="li"
 >
-          Item 2
-          <Button
-                    color="danger"
-                    onClick={[Function]}
-                    style={
-                              Object {
-                                        "marginLeft": 10,
-                                      }
-                    }
-                    tag="button"
-          >
-                    <FaEraser />
-          </Button>
+            Item 2
+            <Button
+                        color="danger"
+                        onClick={[Function]}
+                        style={
+                                    Object {
+                                                "marginLeft": 10,
+                                              }
+                        }
+                        tag="button"
+            >
+                        <FaEraser />
+            </Button>
 </ListGroupItem>,
-        <ListGroupItem
-          tag="li"
+          <ListGroupItem
+            tag="li"
 >
-          Item 3
-          <Button
-                    color="danger"
-                    onClick={[Function]}
-                    style={
-                              Object {
-                                        "marginLeft": 10,
-                                      }
-                    }
-                    tag="button"
-          >
-                    <FaEraser />
-          </Button>
+            Item 3
+            <Button
+                        color="danger"
+                        onClick={[Function]}
+                        style={
+                                    Object {
+                                                "marginLeft": 10,
+                                              }
+                        }
+                        tag="button"
+            >
+                        <FaEraser />
+            </Button>
 </ListGroupItem>,
+        ],
       ],
       "tag": "ul",
     },
     "ref": null,
     "rendered": Array [
+      false,
       Object {
         "instance": null,
         "key": undefined,
@@ -767,62 +779,66 @@ ShallowWrapper {
       "nodeType": "function",
       "props": Object {
         "children": Array [
-          <ListGroupItem
-            tag="li"
+          false,
+          Array [
+            <ListGroupItem
+              tag="li"
 >
-            Item 1
-            <Button
-                        color="danger"
-                        onClick={[Function]}
-                        style={
-                                    Object {
-                                                "marginLeft": 10,
-                                              }
-                        }
-                        tag="button"
-            >
-                        <FaEraser />
-            </Button>
+              Item 1
+              <Button
+                            color="danger"
+                            onClick={[Function]}
+                            style={
+                                          Object {
+                                                        "marginLeft": 10,
+                                                      }
+                            }
+                            tag="button"
+              >
+                            <FaEraser />
+              </Button>
 </ListGroupItem>,
-          <ListGroupItem
-            tag="li"
+            <ListGroupItem
+              tag="li"
 >
-            Item 2
-            <Button
-                        color="danger"
-                        onClick={[Function]}
-                        style={
-                                    Object {
-                                                "marginLeft": 10,
-                                              }
-                        }
-                        tag="button"
-            >
-                        <FaEraser />
-            </Button>
+              Item 2
+              <Button
+                            color="danger"
+                            onClick={[Function]}
+                            style={
+                                          Object {
+                                                        "marginLeft": 10,
+                                                      }
+                            }
+                            tag="button"
+              >
+                            <FaEraser />
+              </Button>
 </ListGroupItem>,
-          <ListGroupItem
-            tag="li"
+            <ListGroupItem
+              tag="li"
 >
-            Item 3
-            <Button
-                        color="danger"
-                        onClick={[Function]}
-                        style={
-                                    Object {
-                                                "marginLeft": 10,
-                                              }
-                        }
-                        tag="button"
-            >
-                        <FaEraser />
-            </Button>
+              Item 3
+              <Button
+                            color="danger"
+                            onClick={[Function]}
+                            style={
+                                          Object {
+                                                        "marginLeft": 10,
+                                                      }
+                            }
+                            tag="button"
+              >
+                            <FaEraser />
+              </Button>
 </ListGroupItem>,
+          ],
         ],
         "tag": "ul",
       },
       "ref": null,
       "rendered": Array [
+        false,
         Object {
           "instance": null,
           "key": undefined,

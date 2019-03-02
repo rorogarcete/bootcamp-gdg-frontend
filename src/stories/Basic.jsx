@@ -7,11 +7,7 @@ import { withKnobs } from '@storybook/addon-knobs';
 /* eslint-enable */
 import Basic from 'components/Basic/Basic';
 
-const items = [
-  { id: 0, name: 'Item 1' },
-  { id: 1, name: 'Item 2' },
-  { id: 2, name: 'Item 3' }
-];
+const items = [{ id: 0, name: 'Item 1' }];
 
 storiesOf('Basic', module)
   .addDecorator(withKnobs)
